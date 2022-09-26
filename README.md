@@ -1,5 +1,15 @@
 # Olá! Eu sou o Freddy Danilo 👋
-## Programador Frontend
+## Programador Frontend & Mobile
+### My Skills
+<ul>
+  <li>JavaScript</li>
+  <li>React JS</li>
+  <li>React Native</li>
+  <li>Node JS</li>
+  <li>Styled-Components</li>
+  <li>HTML 5 & CSS 3</li>
+  <li>Git & GitHub</li>
+</ul>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/freddydanilo">
