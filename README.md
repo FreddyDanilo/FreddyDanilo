@@ -1,5 +1,5 @@
 # Olá! Eu sou o Freddy Danilo 👋
-## Programador Frontend & Mobile
+## Programador Frontend e Mobile
 ### My Skills
 <ul>
   <li>JavaScript</li>
