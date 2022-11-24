@@ -1,6 +1,6 @@
-# Olá! Eu sou o Freddy Danilo 👋
-## Programador Frontend e Mobile
-### Minhas Skills
+# Hi! I'm Freddy Danilo 👋
+## Frontend and Mobile Developer
+### My Skills
 <ul>
   <li>JavaScript</li>
   <li>React JS</li>
@@ -11,7 +11,7 @@
   <li>Git & GitHub</li>
 </ul>
 
-### Minhas Redes Sociais
+### My Social Medias
 <a href="https://www.linkedin.com/in/freddy-danilo-840b12213/">Linkedin</a> - <a href="https://www.instagram.com/freddy_danilo/">Instagram</a> - <a href="https://youtube.com/freddydanilo/">Youtube</a> 
 
 <div align="center" display="inline-block">
