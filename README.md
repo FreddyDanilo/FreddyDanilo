@@ -2,17 +2,12 @@
 ## Frontend Developer
 ### My Skills
 
-<b>Frontend</b>
 <ul>
   <li>React JS</li>
   <li>JavaScript</li>
+  <li>Node JS</li>
   <li>HTML 5</li>
   <li>CSS 3</li>
-</ul>
-
-<b>Backend</b>
-<ul>
-  <li>Node JS</li>
 </ul>
 
 ### My Social Medias
