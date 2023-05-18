@@ -1,9 +1,10 @@
 # Hi! I'm Freddy Danilo 👋
-## Frontend Developer
+## Front-end Developer
 ### My Skills
 
 <ul>
   <li>React JS</li>
+  <li>TypeScript</li>
   <li>JavaScript</li>
   <li>Node JS</li>
   <li>HTML 5</li>
@@ -11,7 +12,7 @@
 </ul>
 
 ### My Social Medias
-<a href="https://www.linkedin.com/in/freddy-danilo-840b12213/">Linkedin</a> - <a href="https://youtube.com/freddydanilo/">Youtube</a> 
+<a href="https://www.linkedin.com/in/freddy-danilo-840b12213/">Linkedin</a> - <a href="https://youtube.com/freddydanilo/">Youtube</a>  - <a href="https://www.instagram.com/freddy_danilo/">Instagram</a> 
 
 <div align="center" display="inline-block">
   <a href="https://github.com/freddydanilo">
