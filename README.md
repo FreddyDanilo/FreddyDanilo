@@ -4,6 +4,7 @@
 
 <ul>
   <li>React JS</li>
+  <li>Styled Components</li>
   <li>TypeScript</li>
   <li>JavaScript</li>
   <li>Node JS</li>
