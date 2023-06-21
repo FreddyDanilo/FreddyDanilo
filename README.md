@@ -1,19 +1,26 @@
 # Hi! I'm Freddy Danilo 👋
 ## Front-end Developer
-### My Skills
+<p>
+  I have worked as a Graphic Designer before, I was responsible for creating unique and eye-catching designs only always with an unparalleled capacity for imagination. I recently made a career transition into front-end development and have been freelancing for the past 2 years. My expertise includes <b>React, TypeScript, JavaScript</b>
+</p>
 
-<ul>
-  <li>React JS</li>
-  <li>Styled-components</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>Node JS</li>
-  <li>HTML 5</li>
-  <li>CSS 3</li>
-</ul>
+<h3>My Skills</h3>
+<p>
+  React JS | JavaScript | TypeScript | Redux <br/>
+  Context API | Styled-components | CSS Module <br/>
+  Sass | Node JS | Git | GitHub | HTML | CSS
+</p>
 
-### My Social Medias
-<a href="https://www.linkedin.com/in/freddy-danilo-840b12213/">Linkedin</a> - <a href="https://youtube.com/freddydanilo/">Youtube</a>  - <a href="https://www.instagram.com/freddy_danilo/">Instagram</a> 
+<h3>Experiences</h3>
+<p>
+  <i>
+    <b>Freelancer</b>, Luanda
+    <br/>
+    <b>Front-end Developer</b>
+    <br/>
+    Março 2020 - Presente
+  </i>
+</p>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/freddydanilo">
