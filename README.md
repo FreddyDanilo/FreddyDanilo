@@ -1,15 +1,10 @@
 # Hi! I'm Freddy Danilo 👋
 ## Front-end Developer
 <p>
-  I have worked as a Graphic Designer before, I was responsible for creating unique and eye-catching designs only always with an unparalleled capacity for imagination. I recently made a career transition into front-end development and have been freelancing for the past 2 years. My expertise includes <b>React, TypeScript, JavaScript</b>
+  React expert, passionate about creating amazing web interfaces. I turn concepts into reality, building reusable components and seamlessly integrating with APIs. With a focus on code quality and visual details, I deliver interactive and responsive experiences. I am always looking for new challenges to enhance my skills. Explore my portfolio and let's collaborate on your next exciting project!
 </p>
 
-<h3>My Skills</h3>
-<p>
-  React JS | JavaScript | TypeScript | Redux <br/>
-  Context API | Styled-components | CSS Module <br/>
-  Sass | Node JS | Git | GitHub | HTML | CSS
-</p>
+<a href="https://freddydanilo.com/">My Portfolio</a>
 
 <h3>Experiences</h3>
 <p>
