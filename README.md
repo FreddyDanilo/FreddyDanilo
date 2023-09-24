@@ -1,7 +1,7 @@
 # Hi! I'm Freddy Danilo 👋
 ## Front-end and Mobile Developer
 <p>
-  React expert, passionate about creating amazing web interfaces. I turn concepts into reality, building reusable components and seamlessly integrating with APIs. With a focus on code quality and visual details, I deliver interactive and responsive experiences. I am always looking for new challenges to enhance my skills. Explore my portfolio and let's collaborate on your next exciting project!
+  Sou especializado em React JS, utilizando TypeScript para garantir um código mais seguro e escalável. Minha paixão pela qualidade do código é evidente em minha experiência com testes, usando Jest para garantir que as funcionalidades estejam sempre em perfeito estado.
 </p>
 
 <a href="https://freddydanilo.com/">My Portfolio</a>
