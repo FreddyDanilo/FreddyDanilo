@@ -1,21 +1,10 @@
 # I'm Freddy Danilo 👋
 ## Software Engineer
 <p>
-  Sou especializado em React JS, utilizando TypeScript para garantir um código mais seguro e escalável. Minha paixão pela qualidade do código é evidente em minha experiência com testes, usando Jest para garantir que as funcionalidades estejam sempre em perfeito estado.
+  React expert, passionate about creating amazing web interfaces. I turn concepts into reality, building reusable components and seamlessly integrating with APIs. With a focus on code quality and visual details, I deliver interactive and responsive experiences. I am always looking for new challenges to enhance my skills.
 </p>
 
 <a href="https://freddydanilo.com/">My Portfolio</a>
-
-<h3>Experiences</h3>
-<p>
-  <i>
-    <b>Freelancer</b>, Luanda
-    <br/>
-    <b>Front-end Developer</b>
-    <br/>
-    Março 2020 - Presente
-  </i>
-</p>
 
 <div align="center" display="inline-block">
   <a href="https://github.com/freddydanilo">
