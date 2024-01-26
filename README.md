@@ -1,5 +1,5 @@
-# Hi! I'm Freddy Danilo 👋
-## Front-end and Mobile Developer
+# I'm Freddy Danilo 👋
+## Software Engineer
 <p>
   Sou especializado em React JS, utilizando TypeScript para garantir um código mais seguro e escalável. Minha paixão pela qualidade do código é evidente em minha experiência com testes, usando Jest para garantir que as funcionalidades estejam sempre em perfeito estado.
 </p>
