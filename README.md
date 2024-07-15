@@ -1,5 +1,5 @@
 # I'm Freddy Danilo 👋
-## Software Engineer
+## Front-end Developer
 <p>
   React expert, passionate about creating amazing web interfaces. I turn concepts into reality, building reusable components and seamlessly integrating with APIs. With a focus on code quality and visual details, I deliver interactive and responsive experiences. I am always looking for new challenges to enhance my skills.
 </p>
