@@ -1,7 +1,13 @@
 # I'm Freddy Danilo 👋
 ## Front-end Developer
 <p>
-  React expert, passionate about creating amazing web interfaces. I turn concepts into reality, building reusable components and seamlessly integrating with APIs. With a focus on code quality and visual details, I deliver interactive and responsive experiences. I am always looking for new challenges to enhance my skills.
+ I'm a qualified front-end developer with experience in React Js, Next Js, JavaScript, TypeScript, Node.js, React Native and much more.
+</p>
+<p>
+I had my first contact with programming in 2017 building games with Unity 3D (C#) when I was 16 years old.
+</p>
+<p>
+In 2020 I decided to create my Channel on Youtube about coding to share my knowledge and record my evolution.
 </p>
 
 <a href="https://freddydanilo.com/">My Portfolio</a>
