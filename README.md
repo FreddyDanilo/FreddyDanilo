@@ -11,9 +11,3 @@ In 2020 I decided to create my Channel on Youtube about coding to share my knowl
 </p>
 
 <a href="https://freddydanilo.com/">My Portfolio</a>
-
-<div align="center" display="inline-block">
-  <a href="https://github.com/freddydanilo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=freddydanilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddydanilo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
