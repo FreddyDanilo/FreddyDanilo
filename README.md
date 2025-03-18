@@ -11,4 +11,6 @@ Professionally, I have experience in blogs and e-commerce, having led projects f
 
 I took part in a challenging project that required the development of a multilingual website to serve a global audience. I was responsible for implementing a scalable architecture, integrating automatic translation systems.
 
+React Js. | Next Js | TypeScript | Prisma | Expo | React Native
+
 <a href="https://freddydanilo.com/">My Portfolio</a>
