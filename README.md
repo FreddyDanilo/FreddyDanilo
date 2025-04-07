@@ -1,7 +1,7 @@
 # I'm Freddy Danilo 👋
 ## Front-end Developer
 
-I'm a qualified front-end developer with experience in React Js, Next Js, JavaScript, TypeScript, Node.js, React Native and much more.
+I'm a front-end developer with experience in React Js, Next Js, JavaScript, TypeScript, Node.js, React Native and much more.
 
 I had my first contact with programming in 2017, creating games with Unity 3D (C#) when I was 16 years old.
 
