@@ -1,6 +1,6 @@
-# I'm Freddy Danilo 👋
-## Front-end Developer
+# Eu sou o Freddy Danilo 👋
+## Garoto de Programa
 
-React Js. | Next Js | TypeScript | Prisma | Expo | React Native | Node Js
+Alguém bué normal que criou um projeto com 1 milhão de acessos e mesmo assim não ficou rico, beijinhos 😘
 
-<a href="https://freddydanilo.com/">Click here to see more about me</a>
+<a href="https://freddydanilo.com/">Mais fofocas sobre mim</a>
